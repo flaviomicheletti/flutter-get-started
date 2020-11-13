@@ -1,3 +1,5 @@
+![flutter](https://user-images.githubusercontent.com/1257048/99012440-276ad180-252d-11eb-8862-1b4731e77f78.png)
+
 # My First Flutter App
 
 Caracas, como é Flutter é divertido, muito legal.
@@ -36,8 +38,8 @@ Depois de inicilaizar o AVD Manager, simpesmente acione o botão __run__(`shift 
 
 ![run-flutter](https://user-images.githubusercontent.com/1257048/99012123-69dfde80-252c-11eb-8708-aed3c201059c.png)
 
-### Reademe Original
+### Readme Original
 
 A maioria dos readme originais são muito poluídos.
 
-Mas este [aqui](/readme-original) os caras capricharam.
+Mas este [aqui](/readme-original.md) os caras capricharam.
